@@ -36,10 +36,10 @@ body {
 @media only screen and (max-width: 768px) {
 	.logo_container {
 		width: 100%;
-		margin: 0px auto;
+		margin: 30px auto;
 	}
 	.order_button {
 		width: 100%;
-		margin: 0px auto;
+		margin: 30px auto;
 	}
 }
