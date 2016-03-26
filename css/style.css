@@ -26,3 +26,8 @@ body {
 	font-size: 20px;
 	font-weight: bold;
 }
+
+.order_button:hover {
+	background-color: #1C1C1C;
+	color: white;
+}
