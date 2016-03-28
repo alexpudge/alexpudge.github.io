@@ -4,7 +4,7 @@ body {
 	background-color: #FFFFFA;
 	font-family: Consolas;
 	color: #1C1C1C;
-	padding: 0px 30px;
+
 }
 
 .logo_container {
@@ -16,6 +16,8 @@ body {
 	width: 100%;
 	height: auto;
 }
+
+
 
 .order_button {
 	float: right;
@@ -37,6 +39,12 @@ body {
 	color: white;
 }
 
+#menu {
+	float: right;
+	margin: 96px 50px;
+	font-size: 18px;
+}
+
 img {
 	width: 100%;
 	height: auto;
@@ -44,6 +52,13 @@ img {
 }
 
 @media only screen and (max-width: 768px) {
+
+	#header {
+			padding: 0px 30px;
+	}
+	#menu {
+		display: none;
+	}
 	.logo_container {
 		width: 100%;
 		margin: 50px auto 20px;
