@@ -50,12 +50,13 @@ $('document').ready(function(){
 			break;
 
 			case "what do you do?" :
-			$('ul').append( '<li id="jack_text">' + "I can do tons of cool stuff...like helping you decide what to wear." + '</li>');
+			$('ul').append( '<li id="jack_text">' + "I can do tons of cool stuff...like show you the weather." + '</li>');
 			break;
 
 			case "show me something trippy" :
 			$('#main_1').css('display' , 'none');
 			$('#main_trippy').css('display' , 'block');
+			$('#bottom').css('opacity' , '.2');
 			$('li').remove();
 			break;
 
@@ -88,6 +89,7 @@ $('document').ready(function(){
 			case "enough" :
 			$('#main_1').css('display' , 'block');
 			$('#main_trippy').css('display' , 'none');
+			$('#bottom').css('opacity' , '1');
 			$('#main_map').css('display' , 'none');
 			$('#main_weather').css('display' , 'none');
 
