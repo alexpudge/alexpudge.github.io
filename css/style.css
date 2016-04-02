@@ -29,8 +29,6 @@ form {
 	animation-fill-mode: forwards;
 }
 
-
-
 #main_1 {
 	width: 100%;
 	height: 600px;
@@ -70,16 +68,16 @@ form {
 }
 
 #main_map {
-	background: url(../images/you_are_here.png);
 	display: none;
 	width: 100%;
-	height: 600px;
 	z-index: 80; 
     top: 0; 
     left: 0;
-    width: 100%;
     margin: auto;
+}
 
+#main_map img {
+	width: 100%;
 }
 
 /*#mapframe {
