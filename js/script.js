@@ -49,6 +49,7 @@ $('document').ready(function(){
 
 			case "what do you do?" :
 			$('ul').append( '<li id="jack_text">' + "I can do tons of cool stuff...like show you the weather." + '</li>');
+			$('ul').append( '<li id="jack_text">' + "I also love colors!" + '</li>');
 			break;
 
 			case "show me something trippy" :
