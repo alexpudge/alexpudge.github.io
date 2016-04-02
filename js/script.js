@@ -24,8 +24,6 @@ $('document').ready(function(){
 		});
 
 		$('#main_1').css('background-color' , myItem)
-		$('#input').css('background-color' , myItem)
-		$('#submit').css('background-color' , myItem)
 
 		$('ul').sortable();
 
