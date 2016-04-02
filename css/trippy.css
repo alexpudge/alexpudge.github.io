@@ -1,0 +1,76 @@
+@keyframes innercircle {
+	from {background-color: white; border-radius: 1px;}
+	to {background-color: #283E54; border-radius: 50px;}
+	}
+
+
+
+.div_trippy {
+	height: 100px;
+	width: 100px;
+	margin: 20px;
+	float: left;
+	animation-iteration-count: infinite;
+}
+
+#inner_circle {
+	background-color: white;
+	height: 20px;
+	width: 20px;
+	border-radius: 1px;
+	margin: 40px auto;
+	-webkit-animation-name: innercircle;
+	animation-duration: 8s;
+	animation-iteration-count: infinite;
+}
+
+#div_1 {
+	background-color: white;
+	-webkit-animation-name: anima1;
+	animation-duration: 4s;
+	animation-delay: .5s;
+
+}
+
+#div_2 {
+	background-color: white;
+	-webkit-animation-name: anima2;
+	animation-delay: 1s;
+	animation-duration: 6s;
+
+}
+
+#div_3 {
+	background-color: white;
+	-webkit-animation-name: anima3;
+	animation-duration: 10s;
+	animation-delay: 5s;
+}
+
+#div_4 {
+	background-color: white;
+	-webkit-animation-name: anima4;
+	animation-duration: 10s;
+	animation-delay: 2s;
+}
+
+
+@keyframes anima1 {
+	from {background-color: white;}
+	to {background-color: #D8D8D8;}
+}
+
+@keyframes anima2 {
+	from {background-color: white;}
+	to {background-color: #7BD18F;}
+}
+
+@keyframes anima3 {
+	from {background-color: white; border-bottom: 1px;}
+	to {background-color: #F17070; border-radius: 50px;}
+}
+
+@keyframes anima4 {
+	from {background-color: white;}
+	to {background-color: #283E54;}
+}
