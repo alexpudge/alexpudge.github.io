@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="579px" height="467px" viewBox="0 0 579 467" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
-    <title>main_image</title>
+<svg width="530px" height="386px" viewBox="0 0 530 386" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Label" transform="translate(-435.000000, -251.000000)">
-            <g id="main_image" transform="translate(423.028429, 256.293610)">
-                <path d="M235.723515,5.01217168 C252.554922,-11.2576769 290.677105,19.4545095 290.677105,19.4545095 C290.677105,19.4545095 317.876911,-11.9133244 340.914505,5.01217168 C363.952098,21.9376678 303.077798,72.3192722 299.394205,75.0257294 C293.426135,79.4106667 281.011077,78.1562821 277.084631,75.0257295 C272.782328,71.5955058 218.892108,21.2820203 235.723515,5.01217168 Z" id="Oval-1" stroke="#1C1C1C" stroke-width="5" fill="#C5FFBD"></path>
-                <path d="M289.738023,137.386263 C328.253269,137.386263 359.476045,106.071877 359.476045,67.443624 C359.476045,61.1928549 220,63.1229512 220,67.443624 C220,106.071877 251.222776,137.386263 289.738023,137.386263 Z" id="Oval-1" stroke="#1C1C1C" stroke-width="5" fill="#FFFFFA"></path>
-                <text id="ketokyo" font-family="Consolas-Bold, Consolas" font-size="160" font-weight="bold" letter-spacing="-3.44858599" fill="#1C1C1C">
-                    <tspan x="0.971571472" y="294.70639">ketokyo</tspan>
+    <defs>
+        <path d="M13.4048046,4.26044317 C27.7541228,-9.5692438 60.2545148,16.5367105 60.2545148,16.5367105 C60.2545148,16.5367105 83.4432286,-10.1265569 103.083521,4.26044317 C122.723814,18.6474432 70.8265068,61.4727845 67.6861243,63.7733256 C62.5981516,67.5006074 52.0139139,66.4343561 48.6664922,63.7733257 C44.9986398,60.857569 -0.944513576,18.0901302 13.4048046,4.26044317 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-4" y="-4" width="104.872517" height="74.1854015">
+            <rect x="6.63740765" y="-4" width="104.872517" height="74.1854015" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-459.000000, -202.000000)">
+            <g id="Group-2" transform="translate(446.000000, 206.000000)">
+                <text id="ketokyo" font-family="Menlo-Bold, Menlo" font-size="134.827586" font-weight="bold" letter-spacing="-3.44858599" fill="#1C1C1C">
+                    <tspan x="2.46436332" y="242.131466">ketokyo</tspan>
                 </text>
-                <text id="CONSCIOUS-FOOD" font-family="Consolas-Bold, Consolas" font-size="60" font-weight="bold" fill="#1C1C1C">
-                    <tspan x="66.0536027" y="451.70639">CONSCIOUS FOOD</tspan>
+                <text id="CONSCIOUS-FOOD" font-family="Menlo-Regular, Menlo" font-size="42.1336207" font-weight="normal" fill="#1C1C1C">
+                    <tspan x="96.5122862" y="373.540948">CONSCIOUS FOOD</tspan>
                 </text>
+                <g id="Group" transform="translate(215.046083, 0.000000)">
+                    <g id="Oval-1">
+                        <use fill="#C6FFBE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#1C1C1C" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M59.4539171,116.780989 C92.2894088,116.780989 118.907834,90.1631533 118.907834,57.3283889 C118.907834,52.0151139 -2.58959633e-09,53.6557332 0,57.3283889 C2.31518573e-08,90.1631533 26.6184253,116.780989 59.4539171,116.780989 Z" id="Oval-1" stroke="#1C1C1C" stroke-width="4" fill="#FFFFFA"></path>
+                </g>
             </g>
         </g>
     </g>
